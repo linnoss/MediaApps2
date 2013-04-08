@@ -9,7 +9,7 @@
       <name>WFMU</name>
       <enabled>false</enabled>
       <period>1440</period>
-      <description>Independent freeform radio from New York.</description>
+      <description>Independent freeform radio from New Jersey</description>
       <link>http://wfmu.org/</link>
       <artwork>http://www.wfmu.org/marathon/images/tl/FF_2011_woof_moo.jpg</artwork>
       <container>/home</container>

@@ -9,7 +9,7 @@
       <name>The Royal Society</name>
       <enabled>false</enabled>
       <period>10080</period>
-      <description>Podcasts and lectures published by The Royal Society.</description>
+      <description>Podcasts and lectures published by The Royal Society</description>
       <link>http://royalsociety.org/</link>
       <artwork>http://a2.twimg.com/profile_images/1688639016/RSlogo_square_reasonably_small.gif</artwork>
       <container type="html">/home</container>

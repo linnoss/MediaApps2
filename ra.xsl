@@ -9,7 +9,7 @@
       <name>Royal Academy Of Arts</name>
       <enabled>false</enabled>
       <period>10080</period>
-      <description>Podcasts and lectures published by the Royal Acadamy of Arts.</description>
+      <description>Podcasts and lectures published by the Royal Acadamy of Arts</description>
       <link>http://www.royalacademy.org.uk/</link>
       <artwork>http://www.digitalmeetsculture.net/wp-content/uploads/tdomf/4122/RA%20logo.jpg</artwork>
       <container>/home</container>

@@ -9,7 +9,7 @@
       <name>BBC</name>
       <enabled>true</enabled>
       <period>360</period>
-      <description>Radio stations and podcasts from the British Broadcasting Company.</description>
+      <description>Radio stations and podcasts from the British Broadcasting Corporation</description>
       <link>http://www.bbc.co.uk/</link>
       <artwork>http://newsimg.bbc.co.uk/media/images/40906000/jpg/_40906539_bbc_logo_203.jpg</artwork>
       <container>/home</container>

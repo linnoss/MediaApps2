@@ -9,7 +9,7 @@
       <name>Librivox</name>
       <enabled>false</enabled>
       <period>0</period>
-      <description>Acoustical liberation of books in the public domain.</description>
+      <description>Acoustical liberation of books in the public domain</description>
       <link>http://librivox.org/</link>
       <artwork>http://librivox.org/librivox_logo.jpg</artwork>
       <container type="html">/home</container>

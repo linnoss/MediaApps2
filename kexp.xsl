@@ -9,7 +9,7 @@
       <name>KEXP</name>
       <enabled>false</enabled>
       <period>1440</period>
-      <description>Where music matters.</description>
+      <description>Where music matters</description>
       <link>http://kexp.org/</link>
       <artwork>http://www.rollogrady.org/media/wp-content/uploads/2008/12/kexp-logo-150x150.jpg</artwork>
       <container>/home</container>

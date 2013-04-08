@@ -9,7 +9,7 @@
       <name>soma fm</name>
       <enabled>false</enabled>
       <period>10080</period>
-      <description>Over 20 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting from San Francisco.</description>
+      <description>Over 20 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting from San Francisco</description>
       <link>http://somafm.com/</link>
       <artwork>http://a0.twimg.com/profile_images/28877822/SomaFMLoneDJ-square_reasonably_small.jpg</artwork>
       <container type="html">/home</container>

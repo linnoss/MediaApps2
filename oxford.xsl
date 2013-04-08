@@ -9,7 +9,7 @@
       <name>Oxford University</name>
       <enabled>false</enabled>
       <period>10080</period>
-      <description>Podcasts and lectures published by Oxford University.</description>
+      <description>Podcasts and lectures published by Oxford University</description>
       <link>http://podcasts.ox.ac.uk/</link>
       <artwork>http://www.ox.ac.uk/images/hi_res/2217_ox_brand1_pos.gif</artwork>
       <container type="html">/home</container>
