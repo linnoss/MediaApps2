@@ -6,12 +6,12 @@
 
   <xsl:template match="/plugin">
     <plugin>
-      <name>Royal Academy Of Arts</name>
+      <name>Tate</name>
       <enabled>false</enabled>
       <period>10080</period>
-      <description>Podcasts and lectures published by the Royal Acadamy of Arts</description>
-      <link>http://www.royalacademy.org.uk/</link>
-      <artwork>http://static.royalacademy.org.uk/images/originals/podcast-feed-ra-19596.jpg</artwork>
+      <description>Podcasts and lectures published by the Tate.</description>
+      <link>http://channel.tate.org.uk/</link>
+      <artwork>http://www.tate.org.uk/sites/all/modules/tate_podcaster/events-logo.png</artwork>
       <container>/home</container>
     </plugin>
   </xsl:template>
@@ -19,8 +19,8 @@
   <!-- HOME -->
 
   <xsl:template match="/container[text() = '/home']">
-    <container name="Royal Academy Of Arts">
-      <xsl:for-each select="document('http://feeds.royalacademy.org.uk/royalacademyevents')/rss/channel/item">
+    <container name="Tate">
+      <xsl:for-each select="document('http://channel.tate.org.uk/podcasts/onlineevents')/rss/channel/item">
         <item>
           <metadatum tag="type">audio</metadatum>
           <metadatum tag="a.type">podcast</metadatum>
@@ -79,7 +79,7 @@
         </xsl:variable>
         <xsl:value-of select="number($hh) * 3600 + number($mm) * 60 + number($ss)" />
       </xsl:when>
-      <xsl:otherwise>        
+      <xsl:otherwise>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
