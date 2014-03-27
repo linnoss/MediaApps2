@@ -9,7 +9,7 @@
       <name>Linn Records</name>
       <enabled>true</enabled>
       <period>10080</period>
-      <description>Podasts from Linn Records</description>
+      <description>Podcasts from Linn Records</description>
       <link>http://www.linnrecords.com/</link>
       <artwork>http://www.linnrecords.com/img/label/Linn_logo_100x100.jpg</artwork>
       <container>/home</container>
