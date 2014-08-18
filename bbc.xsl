@@ -1,4 +1,4 @@
-?<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ohxsl="urn:schemas-openhome-org:xslt" exclude-result-prefixes="msxsl ohxsl" version="1.0">
   <xsl:output method="xml" indent="yes"/>
 
