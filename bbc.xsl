@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+?<?xml version="1.0" encoding="utf-8" ?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:ohxsl="urn:schemas-openhome-org:xslt" exclude-result-prefixes="msxsl ohxsl" version="1.0">
   <xsl:output method="xml" indent="yes"/>
 
@@ -756,7 +756,7 @@
               <xsl:value-of select="broadcast/@duration"/>
             </metadatum>
             <metadatum tag="a.uri">
-              http://www.bbc.co.uk/mediaselector/4/asx/<xsl:value-of select="broadcast/@version_pid" />/iplayer_intl_stream_wma_uk_concrete
+              http://www.bbc.co.uk/mediaselector/4/asx/<xsl:value-of select="broadcast/@version_pid" />
             </metadatum>
             <metadatum tag="a.artwork">
               http://node1.bbcimg.co.uk/iplayer/images/episode/<xsl:value-of select="pid" />_640_360.jpg
