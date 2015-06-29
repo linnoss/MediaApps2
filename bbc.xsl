@@ -38,9 +38,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">Radio 1</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r1.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r1.gif</metadatum>
       </item>
       <item>
@@ -48,9 +48,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC 1xtra</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r1x.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/1x_radio_homepage.png</metadatum>
       </item>
       <item>
@@ -58,9 +58,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio 2</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r2.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r2.png</metadatum>
       </item>
       <item>
@@ -69,18 +69,28 @@
         <metadatum tag="a.title">BBC Radio 3</metadatum>
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r3_aaclca.pls</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r3.png</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
-        <metadatum tag="a.title">BBC Radio 4</metadatum>
+        <metadatum tag="a.title">BBC Radio 4 FM</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r4.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8</metadatum>
+        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r4.png</metadatum>
+      </item>
+      <item>
+        <metadatum tag="type">audio</metadatum>
+        <metadatum tag="a.type">radio</metadatum>
+        <metadatum tag="a.title">BBC Radio 4 LW</metadatum>
+        <metadatum tag="a.channels">2</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r4.png</metadatum>
       </item>
       <item>
@@ -88,9 +98,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio 4 Extra</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r4x.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r4ex.gif</metadatum>
       </item>
       <item>
@@ -98,9 +108,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio 5live</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r5l.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r5.png</metadatum>
       </item>
       <item>
@@ -108,9 +118,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio 5live Sports Extra</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r5lsp.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r5l.gif</metadatum>
       </item>
       <item>
@@ -118,9 +128,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC 6Music</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/r6.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8</metadatum>
         <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r6.png</metadatum>
       </item>
       <item>
@@ -128,10 +138,10 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Asian Network</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">128000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/ran.asx</metadatum>
-        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-an.gif</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8</metadatum>
+        <metadatum tag="a.artwork">http://ichef.bbci.co.uk/corporate/images/width/live/p0/0k/98/p00k98mk.jpg/500</metadatum>
       </item>
     </container>
   </xsl:template>
