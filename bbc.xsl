@@ -203,21 +203,11 @@
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
-        <metadatum tag="a.title">BBC Radio Wales FM</metadatum>
+        <metadatum tag="a.title">BBC Radio Wales</metadatum>
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
         <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wales_fm.m3u8</metadatum>
-        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Wales.png</metadatum>
-      </item>
-      <item>
-        <metadatum tag="type">audio</metadatum>
-        <metadatum tag="a.type">radio</metadatum>
-        <metadatum tag="a.title">BBC Radio Wales MW</metadatum>
-        <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">320000</metadatum>
-        <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wales_mw.m3u8</metadatum>
         <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Wales.png</metadatum>
       </item>
       <item>
@@ -242,63 +232,63 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Berkshire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcberkshire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_berkshire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Bristol</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcbristol.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_bristol.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Cambridgeshire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbccambridgeshire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cambridgeshire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Cornwall</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbccornwall.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cornwall.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Coventry &amp; Warwickshire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbccoventryandwarwickshire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_coventry.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Cumbria</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbccumbria.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cumbria.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Derby</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcderby.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_derby.m3u8</metadatum>
       </item>
       
       <item>
@@ -306,306 +296,297 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Devon</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcdevon.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_devon.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Essex</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcessex.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_essex.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Gloucestershire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcgloucestershire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_gloucestershire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Guernsey</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcguernsey.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_guernsey.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Hereford &amp; Worcester</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcherefordandworcester.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_hereford.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Humberside</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbchumberside.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_humberside.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Jersey</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcjersey.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_jersey.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Kent</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbckent.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_kent.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Lancashire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbclancashire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_lancashire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Leeds</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcleeds.asx</metadatum>
-      </item>
-      <item>
-        <metadatum tag="type">audio</metadatum>
-        <metadatum tag="a.type">radio</metadatum>
-        <metadatum tag="a.title">BBC Leeds</metadatum>
-        <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcleeds.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_leeds.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Leicester</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcleicester.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_leicester.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Lincolnshire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbclincolnshire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_lincolnshire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC London</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbclondon.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_london.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Manchester</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcmanchester.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_manchester.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Merseyside</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcmerseyside.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_merseyside.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Newcastle</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcnewcastle.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_newcastle.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Norfolk</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcnorfolk.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_norfolk.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Northampton</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcnorthampton.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_northampton.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Nottingham</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcnottingham.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_nottingham.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Oxford</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcoxford.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_oxford.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Sheffield</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcsheffield.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_sheffield.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Shropshire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcshropshire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_shropshire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Solent</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcsolent.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_solent.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Somerset</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcsomerset.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_somerset.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Stoke</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcstoke.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_stoke.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Suffolk</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcsuffolk.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_suffolk.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Surrey</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcsurrey.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_surrey.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Sussex</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcsussex.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_sussex.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Tees</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbctees.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_tees.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Three Counties</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcthreecounties.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three_counties.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Wiltshire</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcwiltshire.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wiltshire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC WM</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcwm.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wm.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC York</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">48000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://bbc.co.uk/radio/listen/live/bbcyork.asx</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_york.m3u8</metadatum>
       </item>
     </container>
   </xsl:template>
