@@ -153,62 +153,82 @@
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
-        <metadatum tag="a.title">BBC Radio Scotland</metadatum>
+        <metadatum tag="a.title">BBC Radio Scotland FM</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">80000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/rs.asx</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_scotland_1.gif</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_scotland_fm.m3u8</metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Scotland.png</metadatum>
+      </item>
+      <item>
+        <metadatum tag="type">audio</metadatum>
+        <metadatum tag="a.type">radio</metadatum>
+        <metadatum tag="a.title">BBC Radio Scotland MW</metadatum>
+        <metadatum tag="a.channels">2</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_scotland_mw.m3u8</metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Scotland.png</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio nan Gaidheal</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">80000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/rng.asx</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_nan_gaidheal.gif</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_nan_gaidheal.m3u8</metadatum>
+        <metadatum tag="a.artwork"></metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio Ulster</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">80000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/ru.asx</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_ulster.gif</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_ulster.m3u8</metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Ulster.png</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio Foyle</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">80000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/rf.asx</metadatum>
-        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-nation-foyle.gif</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_foyle.m3u8</metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Foyle.png</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
-        <metadatum tag="a.title">BBC Radio Wales</metadatum>
+        <metadatum tag="a.title">BBC Radio Wales FM</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">80000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/rw.asx</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_wales.gif</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wales_fm.m3u8</metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Wales.png</metadatum>
+      </item>
+      <item>
+        <metadatum tag="type">audio</metadatum>
+        <metadatum tag="a.type">radio</metadatum>
+        <metadatum tag="a.title">BBC Radio Wales MW</metadatum>
+        <metadatum tag="a.channels">2</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wales_mw.m3u8</metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Wales.png</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Radio Cymru</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">80000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/radio/listen/live/rc.asx</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_cymru.gif</metadatum>
+        <metadatum tag="a.bitrate">320000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cymru.m3u8</metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Cymru.png</metadatum>
       </item>
     </container>
   </xsl:template>
