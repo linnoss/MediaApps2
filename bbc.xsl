@@ -252,7 +252,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cambridgeshire.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cambridge.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -270,7 +270,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_coventry.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_coventry_warwickshire.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -334,7 +334,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_hereford.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_hereford_worcester.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -406,7 +406,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_london.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_london.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -505,7 +505,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_somerset.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_somerset_sound.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -550,7 +550,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_tees.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_tees.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -559,7 +559,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three_counties.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_three_counties_radio.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -577,7 +577,7 @@
         <metadatum tag="a.channels">2</metadatum>
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
-        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wm.m3u8</metadatum>
+        <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_wm.m3u8</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
