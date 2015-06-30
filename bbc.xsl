@@ -600,9 +600,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC World Service</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">32000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/worldservice/meta/live/nb/eieuk_au_nb.asx</metadatum>
+        <metadatum tag="a.bitrate">48000</metadatum>
+        <metadatum tag="a.codec">aac</metadatum>
+        <metadatum tag="a.uri">http://bbcwsen-lh.akamaihd.net/i/WSEIEUK_1@189911/master.m3u8</metadatum>
         <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
       </item>
       <item>
@@ -610,9 +610,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC World Service - English News</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">32000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/worldservice/meta/live/nb/einws_au_nb.asx</metadatum>
+        <metadatum tag="a.bitrate">48000</metadatum>
+        <metadatum tag="a.codec">mp3</metadatum>
+        <metadatum tag="a.uri">http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws</metadatum>
         <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
       </item>
       <item>
@@ -620,9 +620,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Arabic</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">32000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/arabic/meta/live/nb/arabic_live_au_nb.asx</metadatum>
+        <metadatum tag="a.bitrate">48000</metadatum>
+        <metadatum tag="a.codec">mp3</metadatum>
+        <metadatum tag="a.uri">http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba</metadatum>
         <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
       </item>
       <item>
@@ -630,9 +630,9 @@
         <metadatum tag="a.type">radio</metadatum>
         <metadatum tag="a.title">BBC Russian</metadatum>
         <metadatum tag="a.channels">2</metadatum>
-        <metadatum tag="a.bitrate">32000</metadatum>
-        <metadatum tag="a.codec">wma</metadatum>
-        <metadatum tag="a.uri">http://www.bbc.co.uk/russian/meta/tx/nb/russian_live_au_nb.asx</metadatum>
+        <metadatum tag="a.bitrate">48000</metadatum>
+        <metadatum tag="a.codec">mp3</metadatum>
+        <metadatum tag="a.uri">http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-russa</metadatum>
         <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
       </item>
     </container>
