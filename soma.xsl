@@ -20,7 +20,7 @@
 
   <xsl:template match="/container[text() = '/home']">
     <container name="soma fm">
-      <xsl:for-each select="document('http://somafm.com')/xhtml:html/xhtml:body/xhtml:div[@id='stations']/xhtml:ul/xhtml:li">
+      <xsl:for-each select="document('http://somafm.com')/xhtml:html/xhtml:body//xhtml:div[@id='stations']/xhtml:ul/xhtml:li">
         <item>
           <metadatum tag="type">audio</metadatum>
           <metadatum tag="a.type">radio</metadatum>
@@ -48,3 +48,4 @@
   </xsl:template>
 
 </xsl:stylesheet>
+
