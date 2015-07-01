@@ -141,7 +141,7 @@
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
         <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8</metadatum>
-        <metadatum tag="a.artwork">http://ichef.bbci.co.uk/corporate/images/width/live/p0/0k/98/p00k98mk.jpg/500</metadatum>
+        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-an.gif</metadatum>
       </item>
     </container>
   </xsl:template>
@@ -178,7 +178,7 @@
         <metadatum tag="a.bitrate">320000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
         <metadatum tag="a.uri">http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_nan_gaidheal.m3u8</metadatum>
-        <metadatum tag="a.artwork"></metadatum>
+        <metadatum tag="a.artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Scotland.png</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -713,27 +713,27 @@
         </xsl:when>
         <xsl:when test="$station='radioscotland'">
           <xsl:attribute name="name">BBC Radio Scotland</xsl:attribute>
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_scotland_1.gif</xsl:attribute>
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Scotland.png</xsl:attribute>
         </xsl:when>
         <xsl:when test="$station='alba'">
           <xsl:attribute name="name">BBC Radio nan Gaidheal</xsl:attribute>
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_nan_gaidheal.gif</xsl:attribute>
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Scotland.png</xsl:attribute>
         </xsl:when>
         <xsl:when test="$station='radioulster'">
           <xsl:attribute name="name">BBC Radio Ulster</xsl:attribute>
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_ulster.gif</xsl:attribute>
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Ulster.png</xsl:attribute>
         </xsl:when>
         <xsl:when test="$station='radiofoyle'">
           <xsl:attribute name="name">BBC Radio Foyle</xsl:attribute>
-          <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-nation-foyle.gif</xsl:attribute>
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Foyle.png</xsl:attribute>
         </xsl:when>
         <xsl:when test="$station='radiowales'">
           <xsl:attribute name="name">BBC Radio Wales</xsl:attribute>
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_wales.gif</xsl:attribute>
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Wales.png</xsl:attribute>
         </xsl:when>
         <xsl:when test="$station='radiocymru'">
           <xsl:attribute name="name">BBC Radio Cymru</xsl:attribute>
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_cymru.gif</xsl:attribute>
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Cymru.png</xsl:attribute>
         </xsl:when>
       </xsl:choose>
       <xsl:variable name="xml">http://bbc.co.uk/radio/aod/availability/<xsl:value-of select="$station"/>.xml</xsl:variable>
@@ -795,59 +795,59 @@
         <xsl:value-of select="$station" />
       </xsl:attribute>
       <xsl:choose>
-        <xsl:when test="$station='Radio 1'">
+        <xsl:when test="$station='BBC Radio 1'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r1.gif</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='1Xtra'">
+        <xsl:when test="$station='BBC 1Xtra'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/1x_radio_homepage.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio 2'">
+        <xsl:when test="$station='BBC Radio 2'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r2.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio 3'">
+        <xsl:when test="$station='BBC Radio 3'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r3.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio 4'">
+        <xsl:when test="$station='BBC Radio 4'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r4.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio 4 extra'">
+        <xsl:when test="$station='BBC Radio 4 extra'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r4ex.gif</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='5 live'">
+        <xsl:when test="$station='BBC 5 live'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r5.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='5 live sports extra'">
+        <xsl:when test="$station='BBC 5 live sports extra'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r5l.gif</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='6 Music'">
+        <xsl:when test="$station='BBC 6 Music'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-r6.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='bbc7'">
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_7.gif</xsl:attribute>
-        </xsl:when>
-        <xsl:when test="$station='Asian Network'">
+        <xsl:when test="$station='BBC Asian Network'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-an.gif</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='worldservice'">
+        <xsl:when test="$station='BBC World Service'">
           <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-ws.gif</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio Nan Gaidheal'">
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_nan_gaidheal.gif</xsl:attribute>
+        <xsl:when test="$station='BBC Radio nan Gaidheal'">
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Scotland.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio Scotland'">
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_scotland_1.gif</xsl:attribute>
+        <xsl:when test="$station='BBC Radio Scotland'">
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Scotland.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='northernireland'">
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_ulster.gif</xsl:attribute>
+        <xsl:when test="$station='BBC Radio Ulster'">
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Ulster.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio Ulster/Foyle'">
-          <xsl:attribute name="artwork">http://www.bbc.co.uk/radio/images/home/r-home-nation-foyle.gif</xsl:attribute>
+        <xsl:when test="$station='BBC Radio Foyle'">
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Foyle.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio Wales'">
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_wales.gif</xsl:attribute>
+        <xsl:when test="$station='BBC Radio Ulster/Foyle'">
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Foyle.png</xsl:attribute>
         </xsl:when>
-        <xsl:when test="$station='Radio Cymru'">
-          <xsl:attribute name="artwork">http://bbc.co.uk/iplayer/img/radio/bbc_radio_cymru.gif</xsl:attribute>
+        <xsl:when test="$station='BBC Radio Wales'">
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Wales.png</xsl:attribute>
+        </xsl:when>
+        <xsl:when test="$station='BBC Radio Cymru'">
+          <xsl:attribute name="artwork">https://mediaportal-uk-logos.googlecode.com/svn/trunk/Radio/Source/BBC%20Radio%20Cymru.png</xsl:attribute>
         </xsl:when>
         <xsl:otherwise>
           <xsl:attribute name="artwork">http://newsimg.bbc.co.uk/media/images/40906000/jpg/_40906539_bbc_logo_203.jpg</xsl:attribute>
