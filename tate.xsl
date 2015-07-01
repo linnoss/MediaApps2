@@ -11,7 +11,7 @@
       <period>10080</period>
       <description>Podcasts and lectures published by the Tate.</description>
       <link>http://channel.tate.org.uk/</link>
-      <artwork>http://www.tate.org.uk/sites/all/modules/tate_podcaster/events-logo.png</artwork>
+      <artwork>http://www.tate.org.uk/sites/all/themes/tatebase/images/tate-head-logo_3.png</artwork>
       <container>/home</container>
     </plugin>
   </xsl:template>

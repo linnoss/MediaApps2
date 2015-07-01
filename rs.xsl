@@ -11,7 +11,7 @@
       <period>10080</period>
       <description>Podcasts and lectures published by The Royal Society</description>
       <link>http://royalsociety.org/</link>
-      <artwork>http://a2.twimg.com/profile_images/1688639016/RSlogo_square_reasonably_small.gif</artwork>
+      <artwork>http://downloads.royalsociety.org/Images/Furniture/Blogs/royalsociety-logo.png</artwork>
       <container type="html">/home</container>
     </plugin>
   </xsl:template>

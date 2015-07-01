@@ -11,7 +11,7 @@
       <period>0</period>
       <description>Acoustical liberation of books in the public domain</description>
       <link>http://librivox.org/</link>
-      <artwork>http://librivox.org/librivox_logo.jpg</artwork>
+      <artwork>https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png</artwork>
       <container type="html">/home</container>
     </plugin>
   </xsl:template>

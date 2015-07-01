@@ -11,7 +11,7 @@
       <period>10080</period>
       <description>Podcasts and lectures published by the Royal Acadamy of Arts</description>
       <link>http://www.royalacademy.org.uk/</link>
-      <artwork>http://static.royalacademy.org.uk/images/originals/podcast-feed-ra-19596.jpg</artwork>
+      <artwork>https://www.royalacademy.org.uk/assets/ra-logotype-3494ccc53fdc12b45b66728eddcb5fba.svg</artwork>
       <container>/home</container>
     </plugin>
   </xsl:template>
