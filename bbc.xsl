@@ -24,7 +24,7 @@
       <container>/regional</container>
       <container>/local</container>
       <container>/world</container>
-      <container>/listen</container>
+      <!--<container>/listen</container>-->
       <container>/podcasts</container>
     </container>
   </xsl:template>
@@ -603,7 +603,7 @@
         <metadatum tag="a.bitrate">48000</metadatum>
         <metadatum tag="a.codec">aac</metadatum>
         <metadatum tag="a.uri">http://bbcwsen-lh.akamaihd.net/i/WSEIEUK_1@189911/master.m3u8</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
+        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-ws.gif</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -613,7 +613,7 @@
         <metadatum tag="a.bitrate">48000</metadatum>
         <metadatum tag="a.codec">mp3</metadatum>
         <metadatum tag="a.uri">http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
+        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-ws.gif</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -623,7 +623,7 @@
         <metadatum tag="a.bitrate">48000</metadatum>
         <metadatum tag="a.codec">mp3</metadatum>
         <metadatum tag="a.uri">http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
+        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-ws.gif</metadatum>
       </item>
       <item>
         <metadatum tag="type">audio</metadatum>
@@ -633,7 +633,7 @@
         <metadatum tag="a.bitrate">48000</metadatum>
         <metadatum tag="a.codec">mp3</metadatum>
         <metadatum tag="a.uri">http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-russa</metadatum>
-        <metadatum tag="a.artwork">http://bbc.co.uk/iplayer/img/radio/bbc_world_service.gif</metadatum>
+        <metadatum tag="a.artwork">http://www.bbc.co.uk/radio/images/home/r-home-id-ws.gif</metadatum>
       </item>
     </container>
   </xsl:template>
