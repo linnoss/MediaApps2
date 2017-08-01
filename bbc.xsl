@@ -889,7 +889,7 @@
             <metadatum tag="a.bitrate">128000</metadatum>
             <metadatum tag="a.codec">mp3</metadatum>
             <metadatum tag="a.uri">
-              <xsl:value-of select="link" />
+              <xsl:value-of select="enclosure/@url" />
             </metadatum>
             <metadatum tag="a.artwork">
               <xsl:value-of select="$artwork" />
